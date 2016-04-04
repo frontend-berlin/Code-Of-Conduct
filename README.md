@@ -1,6 +1,6 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-The **Front-end London Slack** should be a safe place for everybody regardless of
+The **Front-end Berlin Slack** should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
@@ -46,10 +46,14 @@ Failing to follow the community guidelines as described in this document carries
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
 
-* Ian Feather - @ianfeather
-* Adam Onishi - @onishiweb
-* Gareth Trufitt - @gtrufitt
+* Dan Peddle - @danpeddle
+* Scott Van Looy - @scottbert
+
+We are open to adding more people as moderators! Please let us know if you would like to take part.
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
 
 *Job adverts that don't specify the company or require contacting an external recuriter to apply will be removed*
+
+Pull requests are also welcome to refine further this code of conduct.
+
